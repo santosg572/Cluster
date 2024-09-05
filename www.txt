@@ -2,3 +2,5 @@ https://wiki.gentoo.org/wiki/Sysbench
 
 https://puerto53.com/linux/realizar-pruebas-de-estres-con-sysbench/
 
+https://ismarodriguez14.wordpress.com/2018/12/19/10-comandos-de-linux-para-el-diagnostico-de-redes/
+
