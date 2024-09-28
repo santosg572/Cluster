@@ -1,0 +1,685 @@
+================================================
+linea: 172.24.60.157   evarts.inb.unam.mx      evarts
+ip para entrar 172.24.60.157
+evarts
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.60.157  netmask 255.255.255.224  broadcast 172.24.60.159
+        inet6 fe80::1fc8:a2c6:164d:b5d5  prefixlen 64  scopeid 0x20<link>
+        ether 98:90:96:dc:f0:bc  txqueuelen 1000  (Ethernet)
+        RX packets 15214193  bytes 3645047928 (3.6 GB)
+        RX errors 0  dropped 1824144  overruns 0  frame 0
+        TX packets 9370436  bytes 1942155831 (1.9 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 67563  bytes 55696073 (55.6 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 67563  bytes 55696073 (55.6 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp4s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether ac:fd:ce:20:d3:2f  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.220.91   jasper.inb.unam.mx      jasper
+ip para entrar 172.24.220.91
+================================================
+linea: 172.24.220.94   claustrum.inb.unam.mx   claustrum
+ip para entrar 172.24.220.94
+================================================
+linea: 172.24.220.95   arwen.inb.unam.mx       arwen
+ip para entrar 172.24.220.95
+================================================
+linea: 172.24.220.96   charcot.inb.unam.mx     charcot
+ip para entrar 172.24.220.96
+================================================
+linea: 172.24.220.97   euler.inb.unam.mx       euler
+ip para entrar 172.24.220.97
+================================================
+linea: 172.24.220.98   geminis.inb.unam.mx     geminis
+ip para entrar 172.24.220.98
+================================================
+linea: 172.24.220.101  tournoux.inb.unam.mx    tournoux
+ip para entrar 172.24.220.101
+tournoux
+enp2s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.220.101  netmask 255.255.255.0  broadcast 172.24.220.255
+        inet6 fe80::dabb:c1ff:fe11:340c  prefixlen 64  scopeid 0x20<link>
+        ether d8:bb:c1:11:34:0c  txqueuelen 1000  (Ethernet)
+        RX packets 1027559  bytes 208833045 (208.8 MB)
+        RX errors 0  dropped 664  overruns 0  frame 0
+        TX packets 903067  bytes 323337211 (323.3 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 7045  bytes 440861 (440.8 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 7045  bytes 440861 (440.8 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.220.102  moca.inb.unam.mx        moca
+ip para entrar 172.24.220.102
+================================================
+linea: 172.24.80.97    fourier.inb.unam.mx     fourier
+ip para entrar 172.24.80.97
+fourier
+eno1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.97  netmask 255.255.255.224  broadcast 172.24.80.127
+        inet6 fe80::6d5b:43df:3d36:f0f8  prefixlen 64  scopeid 0x20<link>
+        ether 84:a9:3e:76:a4:a7  txqueuelen 1000  (Ethernet)
+        RX packets 33473088  bytes 17115087183 (17.1 GB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 29299523  bytes 20623926309 (20.6 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 16  memory 0xe1200000-e1220000  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 77680  bytes 5730963 (5.7 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 77680  bytes 5730963 (5.7 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.98    rabi.inb.unam.mx        rabi
+ip para entrar 172.24.80.98
+rabi
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.98  netmask 255.255.255.224  broadcast 172.24.80.127
+        inet6 fe80::53c:8dd3:f2b3:d075  prefixlen 64  scopeid 0x20<link>
+        ether 64:00:6a:54:40:63  txqueuelen 1000  (Ethernet)
+        RX packets 53613355  bytes 36814080123 (36.8 GB)
+        RX errors 0  dropped 19917  overruns 0  frame 0
+        TX packets 48971707  bytes 29091176683 (29.0 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 607543  bytes 40487060 (40.4 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 607543  bytes 40487060 (40.4 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp4s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether ac:fd:ce:54:9f:93  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.99    penfield.inb.unam.mx    penfield
+ip para entrar 172.24.80.99
+penfield
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.99  netmask 255.255.255.224  broadcast 172.24.80.127
+        inet6 fe80::4da0:81e6:833b:4c0a  prefixlen 64  scopeid 0x20<link>
+        ether 64:00:6a:54:35:db  txqueuelen 1000  (Ethernet)
+        RX packets 108888484  bytes 85535161053 (85.5 GB)
+        RX errors 0  dropped 11403  overruns 0  frame 0
+        TX packets 111780653  bytes 93701398606 (93.7 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 2492842  bytes 981505147 (981.5 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 2492842  bytes 981505147 (981.5 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp4s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether ac:fd:ce:55:17:5c  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.100   lauterbur.inb.unam.mx	lauterbur
+ip para entrar 172.24.80.100
+================================================
+linea: 172.24.80.101   tanner.inb.unam.mx      tanner
+ip para entrar 172.24.80.101
+================================================
+linea: 172.24.80.102   tesla.inb.unam.mx       tesla
+ip para entrar 172.24.80.102
+tesla
+eno1: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 94:18:82:16:31:80  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 30  
+
+eno2: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.102  netmask 255.255.0.0  broadcast 172.24.255.255
+        inet6 fe80::2ef9:e31b:d070:7743  prefixlen 64  scopeid 0x20<link>
+        ether 94:18:82:16:31:81  txqueuelen 1000  (Ethernet)
+        RX packets 1307547083  bytes 1617852109211 (1.6 TB)
+        RX errors 0  dropped 7  overruns 0  frame 0
+        TX packets 692727369  bytes 367660067645 (367.6 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 39  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 4082496  bytes 249070089 (249.0 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4082496  bytes 249070089 (249.0 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.104   sesamo.inb.unam.mx      sesamo
+ip para entrar 172.24.80.104
+================================================
+linea: 172.24.80.105   rhesus.inb.unam.mx      rhesus
+ip para entrar 172.24.80.105
+rhesus
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.105  netmask 255.255.255.224  broadcast 172.24.80.127
+        inet6 fe80::8326:a3fe:2f38:7f2c  prefixlen 64  scopeid 0x20<link>
+        ether b8:ca:3a:ab:c4:ad  txqueuelen 1000  (Ethernet)
+        RX packets 238460437  bytes 202401993682 (202.4 GB)
+        RX errors 0  dropped 60363  overruns 0  frame 0
+        TX packets 296839073  bytes 329855202877 (329.8 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 708835  bytes 71019958 (71.0 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 708835  bytes 71019958 (71.0 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp4s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 0c:84:dc:a3:1e:41  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.106   mansfield.inb.unam.mx   mansfield
+ip para entrar 172.24.80.106
+mansfield
+docker0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        inet 172.17.0.1  netmask 255.255.0.0  broadcast 172.17.255.255
+        inet6 fe80::42:6dff:fe9e:fd8f  prefixlen 64  scopeid 0x20<link>
+        ether 02:42:6d:9e:fd:8f  txqueuelen 0  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 82  bytes 22845 (22.8 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.106  netmask 255.255.255.224  broadcast 172.24.80.127
+        inet6 fe80::fc1f:f086:81f1:7917  prefixlen 64  scopeid 0x20<link>
+        ether f8:b1:56:c9:c0:b8  txqueuelen 1000  (Ethernet)
+        RX packets 3003094497  bytes 1075683206177 (1.0 TB)
+        RX errors 0  dropped 20808  overruns 0  frame 0
+        TX packets 2410376172  bytes 713126963948 (713.1 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 1959565  bytes 12592774851 (12.5 GB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1959565  bytes 12592774851 (12.5 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+tailscale0: flags=4305<UP,POINTOPOINT,RUNNING,NOARP,MULTICAST>  mtu 1280
+        inet6 fe80::eab:f3eb:825c:5212  prefixlen 64  scopeid 0x20<link>
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 500  (UNSPEC)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 904  bytes 44055 (44.0 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp4s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 54:35:30:43:ff:bf  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.109   hahn.inb.unam.mx        hahn
+ip para entrar 172.24.80.109
+hahn
+enp3s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether f8:b1:56:c9:c1:c3  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+enp4s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.109  netmask 255.255.255.224  broadcast 172.24.80.127
+        inet6 fe80::1239:988d:2d9c:816a  prefixlen 64  scopeid 0x20<link>
+        ether c4:6e:1f:00:b4:e5  txqueuelen 1000  (Ethernet)
+        RX packets 11790769137  bytes 3368707112108 (3.3 TB)
+        RX errors 0  dropped 117393  overruns 0  frame 0
+        TX packets 14051557950  bytes 9451582130772 (9.4 TB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 1295044  bytes 208954491 (208.9 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1295044  bytes 208954491 (208.9 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp5s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 54:35:30:44:4b:c9  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.110   carr.inb.unam.mx        carr
+ip para entrar 172.24.80.110
+carr
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.110  netmask 255.255.255.224  broadcast 172.24.80.127
+        inet6 fe80::7210:373f:def:b4e1  prefixlen 64  scopeid 0x20<link>
+        ether 98:90:96:9e:0a:92  txqueuelen 1000  (Ethernet)
+        RX packets 179773779  bytes 95773078647 (95.7 GB)
+        RX errors 0  dropped 60360  overruns 0  frame 0
+        TX packets 134858385  bytes 61114595849 (61.1 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 1033809  bytes 78028061 (78.0 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1033809  bytes 78028061 (78.0 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp4s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 80:19:34:58:2d:e8  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.111   sherrington.inb.unam.mx sherrington
+ip para entrar 172.24.80.111
+sherrington
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.111  netmask 255.255.255.224  broadcast 172.24.80.127
+        inet6 fe80::3de4:aa79:b341:1cd  prefixlen 64  scopeid 0x20<link>
+        ether 98:90:96:d6:90:8c  txqueuelen 1000  (Ethernet)
+        RX packets 14221855  bytes 6943531827 (6.9 GB)
+        RX errors 0  dropped 8962  overruns 0  frame 0
+        TX packets 14438135  bytes 4660238657 (4.6 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 30040  bytes 3911229 (3.9 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 30040  bytes 3911229 (3.9 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp4s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether ac:fd:ce:27:2e:e1  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.112   damadian.inb.unam.mx 	damadian
+ip para entrar 172.24.80.112
+damadian
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.112  netmask 255.255.0.0  broadcast 172.24.255.255
+        inet6 fe80::bed6:52fe:ec62:ef02  prefixlen 64  scopeid 0x20<link>
+        ether 08:bf:b8:2a:90:a7  txqueuelen 1000  (Ethernet)
+        RX packets 3277794  bytes 3191076265 (3.1 GB)
+        RX errors 0  dropped 223  overruns 0  frame 0
+        TX packets 2970367  bytes 2936745466 (2.9 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 1410  bytes 131569 (131.5 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1410  bytes 131569 (131.5 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp2s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 00:1a:ef:5c:11:80  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.113   ernst.inb.unam.mx       ernst
+ip para entrar 172.24.80.113
+ernst
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.113  netmask 255.255.255.224  broadcast 172.24.80.127
+        inet6 fe80::4304:2831:871f:1016  prefixlen 64  scopeid 0x20<link>
+        ether 64:00:6a:54:04:02  txqueuelen 1000  (Ethernet)
+        RX packets 38341139  bytes 17255642155 (17.2 GB)
+        RX errors 0  dropped 19919  overruns 0  frame 0
+        TX packets 29973475  bytes 7961941039 (7.9 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 171782  bytes 11550894 (11.5 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 171782  bytes 11550894 (11.5 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp4s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether ac:fd:ce:54:9f:6b  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.114	nyquist.inb.unam.mx	nyquist
+ip para entrar 172.24.80.114	nyquist.inb.unam.mx	nyquist
+================================================
+linea: 172.24.80.115   brown.inb.unam.mx	brown
+ip para entrar 172.24.80.115
+brown
+eno1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.115  netmask 255.255.255.224  broadcast 172.24.80.127
+        inet6 fe80::6ca:c78c:2a0f:bdd  prefixlen 64  scopeid 0x20<link>
+        ether c4:34:6b:65:b8:2b  txqueuelen 1000  (Ethernet)
+        RX packets 555550  bytes 510207698 (510.2 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 609075  bytes 390171351 (390.1 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 20  memory 0xef300000-ef320000  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 1118  bytes 99925 (99.9 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1118  bytes 99925 (99.9 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.117   larmor.inb.unam.mx	larmor
+ip para entrar 172.24.80.117
+larmor
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.117  netmask 255.255.0.0  broadcast 172.24.255.255
+        inet6 fe80::e30d:4731:be7:a664  prefixlen 64  scopeid 0x20<link>
+        ether 04:7c:16:4d:c0:d2  txqueuelen 1000  (Ethernet)
+        RX packets 102703801  bytes 118885088734 (118.8 GB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 40011749  bytes 28949578346 (28.9 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device memory 0x51b00000-51bfffff  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 78933  bytes 10865869 (10.8 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 78933  bytes 10865869 (10.8 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlo1: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 2c:0d:a7:d9:57:1f  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.100.47   copula.inb.unam.mx      copula
+ip para entrar 172.24.100.47
+================================================
+linea: 172.24.100.49   copula2.inb.unam.mx     copula2
+ip para entrar 172.24.100.49
+copula2
+eno1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.100.49  netmask 255.255.255.224  broadcast 172.24.100.63
+        inet6 fe80::577b:8d50:4e1:7334  prefixlen 64  scopeid 0x20<link>
+        ether 48:0f:cf:56:aa:14  txqueuelen 1000  (Ethernet)
+        RX packets 51286951  bytes 24610029131 (24.6 GB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 61874632  bytes 23215076401 (23.2 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 20  memory 0xf3100000-f3120000  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 944001  bytes 63939780 (63.9 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 944001  bytes 63939780 (63.9 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.100.73   giora.inb.unam.mx       giora
+ip para entrar 172.24.100.73
+giora
+eno1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.100.73  netmask 255.255.255.224  broadcast 172.24.100.95
+        inet6 fe80::75aa:2e14:e344:f376  prefixlen 64  scopeid 0x20<link>
+        ether dc:4a:3e:65:40:e1  txqueuelen 1000  (Ethernet)
+        RX packets 15287027  bytes 12127499051 (12.1 GB)
+        RX errors 0  dropped 33638  overruns 0  frame 0
+        TX packets 11186766  bytes 2775622213 (2.7 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 20  memory 0xf3100000-f3120000  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 4827  bytes 542399 (542.3 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 4827  bytes 542399 (542.3 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.100.74   austin.inb.unam.mx      austin
+ip para entrar 172.24.100.74
+austin
+eno1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.100.74  netmask 255.255.255.224  broadcast 172.24.100.95
+        inet6 fe80::8f18:14d:c3bb:52e8  prefixlen 64  scopeid 0x20<link>
+        ether 94:57:a5:f2:48:00  txqueuelen 1000  (Ethernet)
+        RX packets 11244195  bytes 4542361796 (4.5 GB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 15859733  bytes 4531810710 (4.5 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 20  memory 0xf3100000-f3120000  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 59980  bytes 3947745 (3.9 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 59980  bytes 3947745 (3.9 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.100.79	tezca.inb.unam.mx	    tezca
+ip para entrar 172.24.100.79	tezca.inb.unam.mx	
+================================================
+linea: 172.24.220.173  ridelim.inb.unam.mx     ridelim
+ip para entrar 172.24.220.173
+ridelim
+enp1s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.220.173  netmask 255.255.255.0  broadcast 172.24.220.255
+        inet6 fe80::13f3:98e7:8053:8a6b  prefixlen 64  scopeid 0x20<link>
+        ether 8c:ec:4b:ab:96:9f  txqueuelen 1000  (Ethernet)
+        RX packets 3735384  bytes 391073138 (391.0 MB)
+        RX errors 0  dropped 8756  overruns 0  frame 0
+        TX packets 270809  bytes 47907930 (47.9 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 5645  bytes 642785 (642.7 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 5645  bytes 642785 (642.7 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.80.131   milagros.inb.unam.mx    milagros
+ip para entrar 172.24.80.131
+milagros
+eno1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.80.131  netmask 255.255.255.224  broadcast 172.24.80.159
+        inet6 fe80::6185:968c:fd01:fd23  prefixlen 64  scopeid 0x20<link>
+        ether 84:69:93:7a:c1:a8  txqueuelen 1000  (Ethernet)
+        RX packets 1793342  bytes 347755197 (347.7 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1752581  bytes 312896425 (312.8 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 16  memory 0xe3200000-e3220000  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 18964  bytes 2251616 (2.2 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 18964  bytes 2251616 (2.2 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp0s20f3: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 70:a8:d3:a3:b6:50  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.140.42   purcell.inb.unam.mx     purcell
+ip para entrar 172.24.140.42
+purcell
+enp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.24.140.42  netmask 255.255.255.224  broadcast 172.24.140.63
+        inet6 fe80::c05a:10cb:5faf:4cf8  prefixlen 64  scopeid 0x20<link>
+        ether f8:b1:56:c9:c6:2f  txqueuelen 1000  (Ethernet)
+        RX packets 1732893  bytes 687265880 (687.2 MB)
+        RX errors 0  dropped 5265  overruns 0  frame 0
+        TX packets 1744316  bytes 303834195 (303.8 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 437681  bytes 26970435 (26.9 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 437681  bytes 26970435 (26.9 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp4s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 54:35:30:43:fe:ff  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 192.168.192.200        ogawa.inb.unam.mx       ogawa
+ip para entrar 192.168.192.200
+ogawa
+eno1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.192.200  netmask 255.255.255.0  broadcast 192.168.192.255
+        inet6 fe80::6875:8aa3:f6df:3b2  prefixlen 64  scopeid 0x20<link>
+        ether 78:ac:44:56:80:60  txqueuelen 1000  (Ethernet)
+        RX packets 82799296  bytes 18414757428 (18.4 GB)
+        RX errors 0  dropped 46610  overruns 0  frame 0
+        TX packets 58849642  bytes 29156076231 (29.1 GB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device memory 0x93700000-937fffff  
+
+eno2: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 78:ac:44:56:80:61  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device memory 0x93600000-936fffff  
+
+eno3: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 78:ac:44:56:80:62  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device memory 0x93500000-935fffff  
+
+eno4: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 78:ac:44:56:80:63  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device memory 0x93400000-934fffff  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 297128  bytes 33055043 (33.0 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 297128  bytes 33055043 (33.0 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+================================================
+linea: 172.24.220.202  opuntia.enesjuriquilla.unam.mx  opuntia
+ip para entrar 172.24.220.202
+================================================
+linea: 172.24.220.201  echinopsis.enesjuriquilla.unam.mx echinopsis
+ip para entrar 172.24.220.201

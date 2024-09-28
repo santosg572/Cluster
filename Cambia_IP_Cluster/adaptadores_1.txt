@@ -1,0 +1,456 @@
+================================================
+linea: 172.24.60.157   evarts.inb.unam.mx      evarts
+ip para entrar 172.24.60.157
+evarts
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 98:90:96:dc:f0:bc brd ff:ff:ff:ff:ff:ff
+    inet 172.24.60.157/27 brd 172.24.60.159 scope global noprefixroute enp3s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::1fc8:a2c6:164d:b5d5/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: wlp4s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether ac:fd:ce:20:d3:2f brd ff:ff:ff:ff:ff:ff
+================================================
+linea: 172.24.220.91   jasper.inb.unam.mx      jasper
+ip para entrar 172.24.220.91
+================================================
+linea: 172.24.220.94   claustrum.inb.unam.mx   claustrum
+ip para entrar 172.24.220.94
+================================================
+linea: 172.24.220.95   arwen.inb.unam.mx       arwen
+ip para entrar 172.24.220.95
+================================================
+linea: 172.24.220.96   charcot.inb.unam.mx     charcot
+ip para entrar 172.24.220.96
+================================================
+linea: 172.24.220.97   euler.inb.unam.mx       euler
+ip para entrar 172.24.220.97
+================================================
+linea: 172.24.220.98   geminis.inb.unam.mx     geminis
+ip para entrar 172.24.220.98
+================================================
+linea: 172.24.220.101  tournoux.inb.unam.mx    tournoux
+ip para entrar 172.24.220.101
+tournoux
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp2s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether d8:bb:c1:11:34:0c brd ff:ff:ff:ff:ff:ff
+    inet 172.24.220.101/24 brd 172.24.220.255 scope global noprefixroute enp2s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::dabb:c1ff:fe11:340c/64 scope link 
+       valid_lft forever preferred_lft forever
+================================================
+linea: 172.24.220.102  moca.inb.unam.mx        moca
+ip para entrar 172.24.220.102
+================================================
+linea: 172.24.80.97    fourier.inb.unam.mx     fourier
+ip para entrar 172.24.80.97
+fourier
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eno1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 84:a9:3e:76:a4:a7 brd ff:ff:ff:ff:ff:ff
+    altname enp0s31f6
+    inet 172.24.80.97/27 brd 172.24.80.127 scope global noprefixroute eno1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::6d5b:43df:3d36:f0f8/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+================================================
+linea: 172.24.80.98    rabi.inb.unam.mx        rabi
+ip para entrar 172.24.80.98
+rabi
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 64:00:6a:54:40:63 brd ff:ff:ff:ff:ff:ff
+    inet 172.24.80.98/27 brd 172.24.80.127 scope global noprefixroute enp3s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::53c:8dd3:f2b3:d075/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: wlp4s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether ac:fd:ce:54:9f:93 brd ff:ff:ff:ff:ff:ff
+================================================
+linea: 172.24.80.99    penfield.inb.unam.mx    penfield
+ip para entrar 172.24.80.99
+penfield
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 64:00:6a:54:35:db brd ff:ff:ff:ff:ff:ff
+    inet 172.24.80.99/27 brd 172.24.80.127 scope global noprefixroute enp3s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::4da0:81e6:833b:4c0a/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: wlp4s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether ac:fd:ce:55:17:5c brd ff:ff:ff:ff:ff:ff
+================================================
+linea: 172.24.80.100   lauterbur.inb.unam.mx	lauterbur
+ip para entrar 172.24.80.100
+================================================
+linea: 172.24.80.101   tanner.inb.unam.mx      tanner
+ip para entrar 172.24.80.101
+================================================
+linea: 172.24.80.102   tesla.inb.unam.mx       tesla
+ip para entrar 172.24.80.102
+tesla
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eno1: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 1000
+    link/ether 94:18:82:16:31:80 brd ff:ff:ff:ff:ff:ff
+    altname enp19s0f0
+3: eno2: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 94:18:82:16:31:81 brd ff:ff:ff:ff:ff:ff
+    altname enp19s0f1
+    inet 172.24.80.102/16 brd 172.24.255.255 scope global noprefixroute eno2
+       valid_lft forever preferred_lft forever
+    inet6 fe80::2ef9:e31b:d070:7743/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+================================================
+linea: 172.24.80.104   sesamo.inb.unam.mx      sesamo
+ip para entrar 172.24.80.104
+================================================
+linea: 172.24.80.105   rhesus.inb.unam.mx      rhesus
+ip para entrar 172.24.80.105
+rhesus
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether b8:ca:3a:ab:c4:ad brd ff:ff:ff:ff:ff:ff
+    inet 172.24.80.105/27 brd 172.24.80.127 scope global noprefixroute enp3s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::8326:a3fe:2f38:7f2c/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: wlp4s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether 0c:84:dc:a3:1e:41 brd ff:ff:ff:ff:ff:ff
+================================================
+linea: 172.24.80.106   mansfield.inb.unam.mx   mansfield
+ip para entrar 172.24.80.106
+mansfield
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether f8:b1:56:c9:c0:b8 brd ff:ff:ff:ff:ff:ff
+    inet 172.24.80.106/27 brd 172.24.80.127 scope global noprefixroute enp3s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::fc1f:f086:81f1:7917/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: wlp4s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether 54:35:30:43:ff:bf brd ff:ff:ff:ff:ff:ff
+4: tailscale0: <POINTOPOINT,MULTICAST,NOARP,UP,LOWER_UP> mtu 1280 qdisc fq_codel state UNKNOWN group default qlen 500
+    link/none 
+    inet6 fe80::eab:f3eb:825c:5212/64 scope link stable-privacy 
+       valid_lft forever preferred_lft forever
+5: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
+    link/ether 02:42:6d:9e:fd:8f brd ff:ff:ff:ff:ff:ff
+    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::42:6dff:fe9e:fd8f/64 scope link 
+       valid_lft forever preferred_lft forever
+================================================
+linea: 172.24.80.109   hahn.inb.unam.mx        hahn
+ip para entrar 172.24.80.109
+hahn
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp3s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc fq_codel state DOWN group default qlen 1000
+    link/ether f8:b1:56:c9:c1:c3 brd ff:ff:ff:ff:ff:ff
+3: enp4s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether c4:6e:1f:00:b4:e5 brd ff:ff:ff:ff:ff:ff
+    inet 172.24.80.109/27 brd 172.24.80.127 scope global noprefixroute enp4s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::1239:988d:2d9c:816a/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+4: wlp5s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether 54:35:30:44:4b:c9 brd ff:ff:ff:ff:ff:ff
+================================================
+linea: 172.24.80.110   carr.inb.unam.mx        carr
+ip para entrar 172.24.80.110
+carr
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 98:90:96:9e:0a:92 brd ff:ff:ff:ff:ff:ff
+    inet 172.24.80.110/27 brd 172.24.80.127 scope global noprefixroute enp3s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::7210:373f:def:b4e1/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: wlp4s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether 80:19:34:58:2d:e8 brd ff:ff:ff:ff:ff:ff
+================================================
+linea: 172.24.80.111   sherrington.inb.unam.mx sherrington
+ip para entrar 172.24.80.111
+sherrington
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 98:90:96:d6:90:8c brd ff:ff:ff:ff:ff:ff
+    inet 172.24.80.111/27 brd 172.24.80.127 scope global noprefixroute enp3s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::3de4:aa79:b341:1cd/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: wlp4s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether ac:fd:ce:27:2e:e1 brd ff:ff:ff:ff:ff:ff
+================================================
+linea: 172.24.80.112   damadian.inb.unam.mx 	damadian
+ip para entrar 172.24.80.112
+damadian
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:bf:b8:2a:90:a7 brd ff:ff:ff:ff:ff:ff
+    inet 172.24.80.112/16 brd 172.24.255.255 scope global noprefixroute enp3s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::bed6:52fe:ec62:ef02/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: wlp2s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether 00:1a:ef:5c:11:80 brd ff:ff:ff:ff:ff:ff
+================================================
+linea: 172.24.80.113   ernst.inb.unam.mx       ernst
+ip para entrar 172.24.80.113
+ernst
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 64:00:6a:54:04:02 brd ff:ff:ff:ff:ff:ff
+    inet 172.24.80.113/27 brd 172.24.80.127 scope global noprefixroute enp3s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::4304:2831:871f:1016/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: wlp4s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether ac:fd:ce:54:9f:6b brd ff:ff:ff:ff:ff:ff
+================================================
+linea: 172.24.80.114	nyquist.inb.unam.mx	nyquist
+ip para entrar 172.24.80.114	nyquist.inb.unam.mx	nyquist
+================================================
+linea: 172.24.80.115   brown.inb.unam.mx	brown
+ip para entrar 172.24.80.115
+brown
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eno1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether c4:34:6b:65:b8:2b brd ff:ff:ff:ff:ff:ff
+    altname enp0s25
+    inet 172.24.80.115/27 brd 172.24.80.127 scope global noprefixroute eno1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::6ca:c78c:2a0f:bdd/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+================================================
+linea: 172.24.80.117   larmor.inb.unam.mx	larmor
+ip para entrar 172.24.80.117
+larmor
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 04:7c:16:4d:c0:d2 brd ff:ff:ff:ff:ff:ff
+    inet 172.24.80.117/16 brd 172.24.255.255 scope global noprefixroute enp3s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::e30d:4731:be7:a664/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: wlo1: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether 2c:0d:a7:d9:57:1f brd ff:ff:ff:ff:ff:ff
+    altname wlp0s20f3
+================================================
+linea: 172.24.100.47   copula.inb.unam.mx      copula
+ip para entrar 172.24.100.47
+================================================
+linea: 172.24.100.49   copula2.inb.unam.mx     copula2
+ip para entrar 172.24.100.49
+copula2
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eno1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 48:0f:cf:56:aa:14 brd ff:ff:ff:ff:ff:ff
+    altname enp0s25
+    inet 172.24.100.49/27 brd 172.24.100.63 scope global noprefixroute eno1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::577b:8d50:4e1:7334/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+================================================
+linea: 172.24.100.73   giora.inb.unam.mx       giora
+ip para entrar 172.24.100.73
+giora
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eno1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether dc:4a:3e:65:40:e1 brd ff:ff:ff:ff:ff:ff
+    altname enp0s25
+    inet 172.24.100.73/27 brd 172.24.100.95 scope global noprefixroute eno1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::75aa:2e14:e344:f376/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+================================================
+linea: 172.24.100.74   austin.inb.unam.mx      austin
+ip para entrar 172.24.100.74
+austin
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eno1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 94:57:a5:f2:48:00 brd ff:ff:ff:ff:ff:ff
+    altname enp0s25
+    inet 172.24.100.74/27 brd 172.24.100.95 scope global noprefixroute eno1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::8f18:14d:c3bb:52e8/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+================================================
+linea: 172.24.100.79	tezca.inb.unam.mx	    tezca
+ip para entrar 172.24.100.79	tezca.inb.unam.mx	
+================================================
+linea: 172.24.220.173  ridelim.inb.unam.mx     ridelim
+ip para entrar 172.24.220.173
+ridelim
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp1s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 8c:ec:4b:ab:96:9f brd ff:ff:ff:ff:ff:ff
+    inet 172.24.220.173/24 brd 172.24.220.255 scope global noprefixroute enp1s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::13f3:98e7:8053:8a6b/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+================================================
+linea: 172.24.80.131   milagros.inb.unam.mx    milagros
+ip para entrar 172.24.80.131
+milagros
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eno1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 84:69:93:7a:c1:a8 brd ff:ff:ff:ff:ff:ff
+    altname enp0s31f6
+    inet 172.24.80.131/27 brd 172.24.80.159 scope global noprefixroute eno1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::6185:968c:fd01:fd23/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: wlp0s20f3: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether 70:a8:d3:a3:b6:50 brd ff:ff:ff:ff:ff:ff
+================================================
+linea: 172.24.140.42   purcell.inb.unam.mx     purcell
+ip para entrar 172.24.140.42
+purcell
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: enp3s0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether f8:b1:56:c9:c6:2f brd ff:ff:ff:ff:ff:ff
+    inet 172.24.140.42/27 brd 172.24.140.63 scope global noprefixroute enp3s0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::c05a:10cb:5faf:4cf8/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: wlp4s0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default qlen 1000
+    link/ether 54:35:30:43:fe:ff brd ff:ff:ff:ff:ff:ff
+================================================
+linea: 192.168.192.200        ogawa.inb.unam.mx       ogawa
+ip para entrar 192.168.192.200
+ogawa
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eno1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 78:ac:44:56:80:60 brd ff:ff:ff:ff:ff:ff
+    altname enp24s0f0
+    inet 192.168.192.200/24 brd 192.168.192.255 scope global noprefixroute eno1
+       valid_lft forever preferred_lft forever
+    inet6 fe80::6875:8aa3:f6df:3b2/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+3: eno2: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 1000
+    link/ether 78:ac:44:56:80:61 brd ff:ff:ff:ff:ff:ff
+    altname enp24s0f1
+4: eno3: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 1000
+    link/ether 78:ac:44:56:80:62 brd ff:ff:ff:ff:ff:ff
+    altname enp24s0f2
+5: eno4: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc mq state DOWN group default qlen 1000
+    link/ether 78:ac:44:56:80:63 brd ff:ff:ff:ff:ff:ff
+    altname enp24s0f3
+================================================
+linea: 172.24.220.202  opuntia.enesjuriquilla.unam.mx  opuntia
+ip para entrar 172.24.220.202
+================================================
+linea: 172.24.220.201  echinopsis.enesjuriquilla.unam.mx echinopsis
+ip para entrar 172.24.220.201

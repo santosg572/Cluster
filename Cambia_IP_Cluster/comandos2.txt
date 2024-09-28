@@ -1,0 +1,17 @@
+#!/bin/sh
+firstchar=$(expr substr $cadena 1 1)
+=====================================
+#!/bin/bash
+
+VAR1="Linuxize"
+VAR2="Linuxize"
+
+if [ "$VAR1" = "$VAR2" ]; then
+    echo "Strings are equal."
+else
+    echo "Strings are not equal."
+fi
+======================================================
+num=$((num1 + num2))    # utiliza esto
+num=$(($num1 + $num2))  # esto también funciona
+=========================================================
